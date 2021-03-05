@@ -1,0 +1,22 @@
+{
+  "name": "ecmascript",
+  "version": "0.0.1",
+  "description": "Entendiendo ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josericardopenase/ecmascript.git"
+  },
+  "keywords": [
+    "ecmascript"
+  ],
+  "author": "Jose Ricardo Peña Seco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josericardopenase/ecmascript/issues"
+  },
+  "homepage": "https://github.com/josericardopenase/ecmascript#readme"
+}
